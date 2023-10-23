@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
+I'm Mahdi Eshghi, and I love programming. Here's what I'm good at:
 
-- I’m currently working on Cloud Based Services
-- I’m currently learning Python & Django
-- you can find me in Twitter :<a href="http://twitter.com/mahdi_mef" > Mahdi_mef </a>
+**Linux** | **Docker** | **Git** | **Python** | **Django** | **Django Rest Framework (DRF)** 
+
+I'm constantly learning and exploring new technologies to improve my skills. 
+
+### Let's Connect
+
+- LinkedIn: [mahdi-eshghi](https://www.linkedin.com/in/mahdi-eshghi-44b913238/)
+- Portfolio: [mahdimef2.github.io](https://www.mahdimef2.github.io)
+- Twitter: [mahdi_mef](https://twitter.com/mahdi_mef)
+
+Feel free to reach out and connect! 😊
