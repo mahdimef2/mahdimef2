@@ -8,7 +8,7 @@ I'm constantly learning and exploring new technologies to improve my skills.
 
 ### Let's Connect
 
-- LinkedIn: [mahdi-eshghi](https://www.linkedin.com/in/mahdi-eshghi-44b913238/)
+- LinkedIn: [mahdi-eshghi](https://www.linkedin.com/in/mahdi-eshghi-61a4063ab/)
 - Portfolio: [mahdimef2.github.io](https://mahdimef2.github.io/)
 - Twitter: [mahdi_mef](https://twitter.com/mahdi_mef)
 
